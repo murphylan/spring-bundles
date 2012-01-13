@@ -14,6 +14,7 @@
 		<module>repository</module>
 	</modules>
 	<properties>
+		<forceContextQualifier>001</forceContextQualifier>
 		<tycho-version>0.13.0</tycho-version>
 	</properties>
 	<repositories>
@@ -21,12 +22,7 @@
 			<id>eclipse-indigo</id>
 			<layout>p2</layout>
 			<!--url>http://download.eclipse.org/releases/indigo</url-->
-			<url>http://download.eclipse.org/releases/indigo</url>
-		</repository>
-		<repository>
-			<id>swtbot</id>
-			<layout>p2</layout>
-			<url>http://download.eclipse.org/technology/swtbot/helios/dev-build/update-site/</url>
+			<url>http://eclipse.ialto.com/eclipse/updates/3.7milestones/S-3.7RC5-201106131736</url>
 		</repository>
 	</repositories>
 	<dependencies>
