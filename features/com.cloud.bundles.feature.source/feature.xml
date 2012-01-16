@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.cloud.bundles.f.source"
-      label="bundles.feature.source"
+      id="com.cloud.bundles.spring.f.source"
+      label="bundles.spring.feature.source"
       version="1.0.0.qualifier"
       provider-name="Murphy">
 
@@ -17,6 +17,6 @@
       [Enter License Description here.]
    </license>
 
-   <plugin id="com.cloud.bundles.plugin.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
+   <plugin id="com.cloud.bundles.spring.plugin.source" download-size="0" install-size="0" version="0.0.0" unpack="false"/>
 
 </feature>
