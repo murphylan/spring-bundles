@@ -3,4 +3,5 @@ reports
 .DS_Store
 target
 bin
+.repository
 .settings
